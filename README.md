@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hello 👋
 
-<!--
-**reddy-sachin/reddy-sachin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a planetary scientist and postdoctoral research fellow at the NASA Jet Propulsion Laboratory. Previously, I was postdoctoral research associate and fellow at the National Institute of Polar Research (国立極地研究所) in Japan. I have a PhD in space physics from the UCL Mullard Space Science Laboratory and in 2023 I was awarded the UCL Alan Johnstone Prize for Outstanding Scientific Achievement.
+Research Interests
 
-Here are some ideas to get you started:
+    Space plasmas
+    Moon-magnetosphere interactions
+    Ocean Worlds
+    Machine learning & uncertainty quantification
+    Ionospheres and MI coupling
+    Space weather prediction
+    Habitability of the solar system
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you would like to learn more, please reach out via my contact info.
